@@ -6,7 +6,8 @@ This is an detect module created during the second semester of 23.
 I am using various parts, and I wrote it using python.
 
 23년도 2학기, 마이크로 프로세서 프로젝트에 작성하였습니다.
-erilog으로 작성한 알람시계 모듈 스크립트이며 4개의 버튼을 사용합니다.
+파이썬으로 작성한 알람시계 모듈 스크립트이며 4개의 버튼을 사용합니다.
+master분기에 코드가 있습니다.
 
 ----------------
 
